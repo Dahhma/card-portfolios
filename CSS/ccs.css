@@ -1,5 +1,5 @@
 body{
-    background-image:linear-gradient(to right, #9C5257, #f9004d, rgb(0, 0, 0));
+    background-image:linear-gradient(to right, #9C5257, #f9004d, rgb(45, 36, 53));
 }
 
 nav{
@@ -17,8 +17,9 @@ footer {
     color: aliceblue;
 }
 
-a link{
+a:link{
     text-decoration: none;
+    color: inherit;
 }
 
 .shadow-card{
