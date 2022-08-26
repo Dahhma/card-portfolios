@@ -1,0 +1,26 @@
+body{
+    background-image:linear-gradient(to right, #9C5257, #f9004d, rgb(0, 0, 0));
+}
+
+nav{
+    background-color: rgb(56, 44, 66);
+    color: aliceblue;
+}
+
+main{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+footer {
+    background-color: rgb(56, 44, 66);
+    color: aliceblue;
+}
+
+.shadow-card{
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+
+.shadow-card:hover{
+    box-shadow: 0px 0px 20px rgb(255, 255, 255);
+}
